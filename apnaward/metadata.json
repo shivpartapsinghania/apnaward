@@ -1,0 +1,6 @@
+{
+  "name": "ApnaWard",
+  "description": "ApnaWard — Your Neighbourhood. Your Voice. Community-focused civic issue reporting, transparent priority guidance, interactive ward maps, and resolution tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
